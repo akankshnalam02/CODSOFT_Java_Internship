@@ -96,8 +96,6 @@ Edit
 javac -cp ".;json-20210307.jar" CurrencyConverter.java
 java -cp ".;json-20210307.jar" CurrencyConverter
 
----------------------------------------------------
-
 ```
 
 ## 📎 Links
