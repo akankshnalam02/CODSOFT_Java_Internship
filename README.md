@@ -1,6 +1,6 @@
 # CODSOFT Java Internship - July 2025
 
-🚀 **Intern Name:** Nalam A V S S P Akanksh  
+🚀 **Intern Name:** Akanksh Nalam  
 🏫 **College:** SRKR Engineering College  
 📆 **Internship Duration:** Batch: June 2025 (B36) -> 25 June – 25 July 2025
  
