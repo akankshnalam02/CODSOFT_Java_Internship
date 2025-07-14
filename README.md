@@ -2,7 +2,8 @@
 
 🚀 **Intern Name:** Nalam A V S S P Akanksh  
 🏫 **College:** SRKR Engineering College  
-📆 **Internship Duration:** July 2025  
+📆 **Internship Duration:** Batch: June 2025 (B36) -> 25 June – 25 July 2025
+ 
 🎯 **Domain:** Java Development  
 🔗 **Organization:** [CODSOFT](https://codsoft.in)
 
