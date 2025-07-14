@@ -1,7 +1,6 @@
 # CODSOFT Java Internship - July 2025
 
 🚀 **Intern Name:** Nalam A V S S P Akanksh  
-📧 **Email:** sivanalam717@gmail.com  
 🏫 **College:** SRKR Engineering College  
 📆 **Internship Duration:** July 2025  
 🎯 **Domain:** Java Development  
@@ -99,6 +98,7 @@ java -cp ".;json-20210307.jar" CurrencyConverter
 
 ---------------------------------------------------
 
+```
 
 ## 📎 Links
 
