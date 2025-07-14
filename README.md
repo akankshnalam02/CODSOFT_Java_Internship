@@ -102,9 +102,10 @@ java -cp ".;json-20210307.jar" CurrencyConverter
 
 ## 📎 Links
 
-- CodSoft Official Website: https://codsoft.in  
-- LinkedIn Profile: https://www.linkedin.com/in/akankshnalam  
-- GitHub Profile: https://github.com/akankshnalam02
+🏢 **Organization:** [CodSoft](https://codsoft.in)  
+🔗 **LinkedIn Profile:** [https://www.linkedin.com/in/akankshnalam](https://www.linkedin.com/in/akankshnalam)  
+💻 **GitHub Profile:** [https://github.com/akankshnalam02](https://github.com/akankshnalam02)
+
 
 --------------------------------------------------
 
