@@ -105,8 +105,3 @@ java -cp ".;json-20210307.jar" CurrencyConverter
 🏢 **Organization:** [CodSoft](https://codsoft.in)  
 🔗 **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/akankshnalam)  
 💻 **GitHub Profile:** [GitHub](https://github.com/akankshnalam02)
-
-
---------------------------------------------------
-
-“The best way to learn to code is by building.” – Good luck to all future interns!
